@@ -24,7 +24,8 @@ To solve this, we created an interactive Power BI dashboard that presents action
 
 # 📸 Dashboard Preview
 
-Add your screenshot inside the screenshots/ folder and update the image path below.
+![Dashboard](https://github.com/Gargiparlikar/Meta-Ad-Performance-Dashboard-Power-BI-Project-/blob/main/Screenshot%202025-12-12%20114829.png?raw=true)
+
 ## 📂 Dataset Description
 
 The dataset includes the following key fields:
